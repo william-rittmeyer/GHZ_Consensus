@@ -1,4 +1,4 @@
-The Raft Consensus Algorithm
+The GHZ Consensus Algorithm
 ============================
 
 This is the repo for the Raft website: https://raft.github.io
